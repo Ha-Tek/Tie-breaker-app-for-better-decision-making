@@ -7,7 +7,7 @@ This is a hands-on project developed as part of a Coursera course.
 You'll learn how to vibe code. You will use natural language to create a functional app to solve a specific business problem.
 
 
-# 1. Build with AI: Tie breaker app for better decision making
+#  Build with AI: Tie breaker app for better decision making
 
 Lab tasks:
 
