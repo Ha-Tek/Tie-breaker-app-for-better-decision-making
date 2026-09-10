@@ -13,6 +13,8 @@ Lab tasks:
 
 **Step 1: Define your app 
 **
+
+
 Once in AI Studio, navigate to “Build AI apps”. In the prompt box on the Build page, describe the Tiebreaker app: 
 
 **I want an app called The Tiebreaker that helps me make decisions. I want to provide a decision that I need to make, and I'd love AI's help in showing me different pros and cons. This can be through a pros and cons list, a comparison table, or even a SWOT analysis.**
@@ -21,6 +23,7 @@ When you are ready, click the “Build” button.
 
 **Step 2: Test your application 
 **
+
 Once the app interface appears, put it to the test with a real-world scenario.
 
 Locate the input field (e.g. "What decision do you need to make?"), and enter: 
@@ -34,6 +37,7 @@ Click “Get Analysis” and review the results generated.
 
 **Step 3: Troubleshoot and "Auto-fix" errors 
 **
+
 If the app breaks, or stops working, don’t start over. This is part of the process. 
 
 When an error occurs, you’ll see the error and a button for “Auto-fix” appear in the prompt box on the left. 
@@ -42,6 +46,7 @@ Click “Auto fix” and the model will analyze the error, think through the sol
 
 **Step 4: Verify the fix 
 **
+
 After the “Auto-fix” is complete, test the app again to ensure all features are working.
 
 Enter a new decision: 
